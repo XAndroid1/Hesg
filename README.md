@@ -1,7 +1,7 @@
 install in termux
 
 ```
-git clone https://github.com/XAndroid1/Hesg/tree/XAndroid1
+git clone https://github.com/XAndroid1/Hesg
 ```
 ```
 cd Hesg
